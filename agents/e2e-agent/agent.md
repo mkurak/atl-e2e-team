@@ -11,3 +11,5 @@ so install / promote / publish have a real asset to move around.
 ## Knowledge Base
 
 _(none yet — the harness may add children during a test)_
+
+<!-- e2e propose-upstream gain -->
